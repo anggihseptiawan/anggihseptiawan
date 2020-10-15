@@ -1,4 +1,4 @@
-### Hi there, 👋 Anggih septiawan here.
+### Hi there, 👋 Anggih Septiawan here.
 
 - 🔭 I’m currently working on software house in jakarta
 - 🔥 I’m currently learning ReactJS, NextJS, Tailwindcss, Redux, JAMStack stuff and more
