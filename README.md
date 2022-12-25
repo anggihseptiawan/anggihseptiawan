@@ -5,4 +5,3 @@
 - 💬 Ask me about frontend
 - 📫 How to reach me: send an email to anggihseptiawan@gmail.com
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: Love hate relationship with TypeScript 🤣
